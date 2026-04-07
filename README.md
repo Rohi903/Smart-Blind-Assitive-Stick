@@ -98,4 +98,4 @@ smart-blind-stick/
 - pyttsx3
 
 ## Author
-Waxi — College Project 2026
+Rohith — College Project 2026
